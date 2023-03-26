@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+:root {
+	--text-color: #333;
+	--primary-color: #1f74c9;
+	--primary-color-hover: #87abce;
+
+	--header-height: 60px;
+
+	--faculty-color: #228B22;
+	--group-color: #00BFFF;
+	--student-color: #FF8C00;
+	--subject-color: #9400D3;
+	--teacher-color: #FFD700;
+}
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+button, input {
+	border: none;
+	outline: none;
+}
+
+a {
+	text-decoration: none;
+	color: #333;
+}

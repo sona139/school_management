@@ -1,0 +1,12 @@
+.wrapper {
+	padding: 24px 36px;
+}
+
+.container {
+	padding: 16px;
+	border-top: 3px solid var(--primary-color);
+	box-shadow: 0 0 10px var(--primary-color-hover);
+	border-radius: 5px;
+	overflow: hidden;
+	position: relative;
+}
